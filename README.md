@@ -1,10 +1,10 @@
-<img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=Andytonglove&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=ni1o1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
 
-- 👨‍💻 I’m currently studying in WHU.
-- 🔭 I’m currently working on Java and JavaScript.
-- 🌱 I’m currently learning in CS and GIS. 
+- 👨‍💻 I’m currently studying in Tongji University.
+- 🔭 I’m currently working on Python and JavaScript.
+- 🌱 I’m currently learning in data science and GIS. 
 - 😃 Hello, world!
 
 <!--
