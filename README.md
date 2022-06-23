@@ -2,6 +2,5 @@
 
 ### Hi there 👋
 
-- 👨‍💻 I am currently studying in Tongji University.
 - 🔭 I am a developer of Python and JavaScript.
 - 🌱 I am interested in data science, urban computing and data visuallization.
